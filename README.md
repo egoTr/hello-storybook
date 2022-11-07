@@ -1,3 +1,8 @@
+# 💡 NOTES
+- `SB`/`sb`... stands for **Storybook** 
+   
+&nbsp;
+
 # 🔢 STEPS
 * [x] `(React)` Create Typescript project
 * [x] `(React)` Clean project  
@@ -7,10 +12,10 @@
 ├── `/src/index.tsx` Minimum code    
 ├── `/src` Keep `App.tsx`, `index.tsx` & `react-app-env.d.ts`      
 ├── `/package.json` (1) Uninstall **@testing** packages (x3), `@types/jest` & `web-vitals`; (2) Remove `test` script;     
-* [x] `(Storybook)` Install & clean
-* [x] `(Storybook) ` 📝`/.storybook/manager-head.html` Set custom favicon
+* [x] `(Storybook)` Install & clean  
+├── `/src/stories` Keep `Button` files (x3)    
 * [x] `(GIT)` 📝`.gitignore` Ignore folder `/storybook-static`
-* [x] `(PRODUCTION)`📝`/vercel.json` Configure for deploying on **Vercel**
+* [x] `(Storybook) ` 📝`/.storybook/manager-head.html` Set **favicon** and default **title**  
 
 &nbsp;
 
